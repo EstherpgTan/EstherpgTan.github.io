@@ -1,0 +1,128 @@
+.Toolbar {
+  font-size: 16px;
+  font-family: Playfair Display SC, serif;
+  display: inline-block;
+  color: white;
+}
+
+.home {
+  width: 100vw;
+  height: 100vw;
+  top: 0;
+  left: 0;
+  background:url(http://res.cloudinary.com/esthertan/image/upload/v1486084330/My_Portfolio_-_Larger_dimensions_uhwxyb.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+div.row {
+  word-spacing: 160px;
+  text-align: center;
+}
+
+h1 {
+  word-spacing: 0px;
+  font-variant: small-caps;
+  font-weight: normal;
+}
+
+h2 {
+word-spacing: 0px;
+font-variant: small-caps;
+font-weight: normal;
+text-align: center;
+}
+
+.greeting {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left:-100px;
+  margin-top: -50px;
+  color: white;
+}
+
+.about {
+  font-size: 22px;
+  font-family: Playfair Display SC, serif;
+}
+
+.contact {
+  width: 110vw;
+  height: 0vw;
+  top: 0;
+  left: 0;
+  /*background:url(http://res.cloudinary.com/esthertan/image/upload/v1486085130/My_Portfolio_-_Larger_dimensions_2_iymj6t.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+  color: white;
+}
+
+.projects {
+  text-align: center;
+}
+
+
+.skills {
+  text-align: center;
+  color: white;
+}
+
+.boxed {
+  border: 1px black;
+  width: 600px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.para1 {
+  text-align: center;
+  word-spacing: 10px;
+  font-size: 14px;
+}
+
+.para2 {
+  text-align: center;
+  word-spacing: 10px;
+  font-size: 14px;
+}
+
+.para3 {
+  text-align: center;
+  word-spacing: 10px;
+  font-size: 14px;
+}
+
+p {
+  font-family: Playfair Display SC, serif;
+  font-size: 14px;
+
+}
+
+.skillset {
+  font-family: Playfair Display SC, serif;
+  font-size: 14px;
+}
+
+.elements {
+  font-family: Playfair Display SC, serif;
+  font-size: 14px;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.menu_link {
+  color: white;
+}
+
+.contact-h2 {
+  font-size: 16px;
+}
